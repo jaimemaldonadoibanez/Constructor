@@ -35,6 +35,9 @@ int main() {
  // Crear un punto copiando otro (constructor copia)
  Punto p3(p2);
  p3.mostrar();
-std::cout<<"Jaime Maldonado Ibañez"<<std::endl;
- return 0;
+    std::cout << "\n-- Grupo Kernel Crew --" << std::endl;
+    std::cout << "\n--Carlos Fernando Machaca Carrillo--\n";
+    std::cout << "\n--Luis Hidalgo Pedraza--\n";
+    std::cout << "\n--Jaime Maldonado Ibañez--\n";
+    return 0;
 }
